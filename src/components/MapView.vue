@@ -9,6 +9,10 @@ useLocation();
 </script>
 
 <style scoped>
+* {
+  z-index: 0;
+}
+
 #map {
   width: 100%;
   height: 96.5vh;
